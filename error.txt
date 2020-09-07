@@ -1,3 +1,5 @@
+
+/*
 Executing script: /Users/davidcarrillojr/Desktop/code_training/python_temple_twillio/functions.py
 Script arguments: 
 Output:
@@ -5,4 +7,5 @@ Traceback (most recent call last):
   File "/Users/davidcarrillojr/Desktop/code_training/python_temple_twillio/functions.py", line 4, in <module>
     first_number = float(sys.argv[1])
 IndexError: list index out of range
+*/
 
