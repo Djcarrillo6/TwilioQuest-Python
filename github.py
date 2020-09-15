@@ -1,4 +1,4 @@
 # for counter
 # count gitposts
-# count 1
-# count 2
+# count 6
+# count 3
