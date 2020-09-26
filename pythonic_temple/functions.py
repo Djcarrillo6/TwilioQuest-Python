@@ -6,7 +6,7 @@ second_number = float(sys.argv[2])
 
 
 # hail_friend(name)
-# hail_70
+# hail_740
 
 
 def add_numbers(first_number, second_number):
