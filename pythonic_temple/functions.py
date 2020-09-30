@@ -5,7 +5,7 @@ first_number = float(sys.argv[1])
 second_number = float(sys.argv[2])
 
 
-# hail_friend(name)
+# hail_friend(captain)
 # For the glory of Python!
 
 
