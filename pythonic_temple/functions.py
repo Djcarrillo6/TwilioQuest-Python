@@ -6,7 +6,7 @@ second_number = float(sys.argv[2])
 
 
 # hail_friend(captain)
-# For the glory Pythonic Temple!
+# For the glory Pythonic!
 
 
 def add_numbers(first_number, second_number):
