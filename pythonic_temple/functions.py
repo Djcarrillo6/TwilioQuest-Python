@@ -15,4 +15,3 @@ def add_numbers(first_number, second_number):
 
 
 add_numbers(first_number, second_number)
-add_numbers(second_number, first_number)
