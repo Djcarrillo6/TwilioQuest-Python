@@ -1,6 +1,6 @@
 import sys
 
-input_string = sys.argv[1]  # test number 31
+input_string = sys.argv[1]  # test number 32
 
 python_is_glorious = True
 failure_is_option = False
