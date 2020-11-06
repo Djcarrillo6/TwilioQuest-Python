@@ -1,6 +1,6 @@
 import sys
 
-favorite_robot = "Cedric 22"
+favorite_robot = "Cedric 42"
 meaning_of_life = 42
 
 
