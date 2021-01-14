@@ -1,0 +1,8 @@
+Executing script: /Users/davidcarrillojr/Desktop/code_training/python_temple_twillio/functions.py
+Script arguments: 
+Output:
+Traceback (most recent call last):
+  File "/Users/davidcarrillojr/Desktop/code_training/python_temple_twillio/functions.py", line 9, in <module>
+    add_numbers(first_number, second_number)
+NameError: name 'first_number' is not defined
+
