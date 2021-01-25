@@ -16,7 +16,7 @@ def add_numbers(first_number, second_number):
         print("You have chosen the path of excess.")
 
     else:
-        print("NaN")
+        print("Nan * Nan")
 
 
 add_numbers(first_number, second_number, first_number)
