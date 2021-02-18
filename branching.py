@@ -19,4 +19,4 @@ def add_numbers(first_number, second_number):
         print("Nan 7")
 
 
-add_numbers(first_number, second_number, second_number)
+add_numbers(first_number, second_number, first_number)
